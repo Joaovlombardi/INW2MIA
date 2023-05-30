@@ -1,0 +1,25 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "descricao": "Prancha",
+    "estoque": 10,
+    "valor": 10,
+    "imagem": "img/fundo.jpg"
+    },
+    {
+    "id": 2,
+    "descricao": "Óculos de praia",
+    "estoque": 10,
+    "valor": 15,
+    "imagem" : "img/fundo.jpg"
+    },
+    {
+    "id": 3,
+    "descricao": "Protetor solar",
+    "estoque": 10,
+    "valor": 5.25,
+    "imagem" : "img/fundo.jpg"
+    }
+    ]
+   }
